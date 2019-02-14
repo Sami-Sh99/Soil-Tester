@@ -1,7 +1,0 @@
-Arduino Objective:
-Read humidity and temperature.
-read soil humidity (for every soil section).
-read RFID.
-read the average of the 5 IR reciever readings.
-
-After reading, send the data to the raspberry pi via serial communication
